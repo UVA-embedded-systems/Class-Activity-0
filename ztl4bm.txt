@@ -1,0 +1,3 @@
+Zack Landsman ztl4bm
+No relevant work in embedded systems, OS, or computer arch. I work with arduino, ADC, loadcells, EMFG position tracking, accelerometers, and other sensors. 
+I'm interested in device design, parallel processing, and videogames. Huge fan of 3D printing, Ui/UX, and everything nerdy. 
