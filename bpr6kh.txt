@@ -1,0 +1,22 @@
+Boluwatife Raufu (bpr6kh)
+
+Background:
+- 5th year Computer Engineering major
+- My experience stems from the two prior embedded system courses.
+- I have taken the following related courses:
+    - Intro to Embedded Systems
+    - Embedded System Design (Capstone)
+    - Operating Systems
+    - Computer Architecture (currently taking)
+
+Projects:
+- Electrocardiogram
+- Sound Analyzer
+- Autonomous Plant Nursery
+
+Languages:
+- C/C++
+- Python
+- Java
+
+I wish to improve my skills in embedded systems and get better at programming.
