@@ -1,0 +1,5 @@
+My name is Zourong Jiang and all my friends call me JOJO. My UVA ID is jpx9vt.
+
+I learned a little bit STM32-related content during my undergraduate studies. I used to try to complete STM32-based line-following robot project. I hope this class will help me gain a deeper understanding of embedded systems.
+
+Zourong Jiang, jpx9vt, https://github.com/JOJO-Jiang1206/Class-Activity-0.git
