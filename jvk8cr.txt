@@ -1,0 +1,5 @@
+Nikhil Boyalla, jvk8cr
+
+I've taken intro to embedded and CSO 2, my capstone project was creating a device to get badminton player metrics using various sensors. I've used nRF52840s, Arduinos, and Raspberry Picos using C and micropython.
+
+My interests are in networks and security, and I hope to learn how operating systems work along with how embedded systems are designed. 
