@@ -1,0 +1,6 @@
+Name: Alex Farmer
+Computing ID: yhs7ar
+
+Background: Last semester I took intro to embedded computer systems with professor delong, this was in C and using an ARM cortex M0+ microcontroller.  I also did robotics in high school and integrated both user control and autonomous closed loop function in C++, this was using a vex robotics "brain".
+
+Interest and expectations: I expect to get further experience with embedded systems and real time OS design and programming since I have never done that before.  I also am doing an internship in embedded software this summer so this is also relevant prior learning for that internship.
