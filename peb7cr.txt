@@ -6,7 +6,8 @@ Micro-controllers: LP-MSPM0G3507 LaunchPad, MKII Boosterpack
 Coding languages: C, ARM Assembly
 
 I'm really interested in exploring the real-time side of embedded systems, especially since this will be my
-first time learning about it in any of my courses. I'm also highly interested in pursuring a career in embedded systems after 
-graudation, particulary in the medical/wearable healthcare industry, so I'm excited to start learning design principles that are applicable to 
+first time learning about it in any of my courses. I'm also highly interested in pursuing a career in embedded systems after 
+graduation, particularly in the medical/wearable healthcare industry, so I'm excited to start learning design principles that are applicable to 
 real-world applications. By the end of this course, I hope to have a stronger understanding of memory management, interrupts,
 and threads. Since I took CSO II last semester, I want to use this course as a way to further reinforce those concepts.
+
