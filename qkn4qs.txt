@@ -1,0 +1,5 @@
+Shahryar Kiani, qkn4qs
+
+I'm a CS student, and this is the first class I'm taking that focuses on embedded systems. I've done some small projects on a Raspberry Pi before. I have experience with a variety of programming languages, but nowadays I mainly work in C++.
+
+I want to learn more about embedded systems and real-time operating systems by taking this class.
