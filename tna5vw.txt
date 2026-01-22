@@ -1,0 +1,5 @@
+Kenny Duong tna5vw
+
+I've taken Intro to Embedded Computer Systems and Computer Systems and Organization, where I did projects such as using a microcontroller to play sounds and display images on an MKII Booster-Pack, programmed with Code Compose in C#.
+
+I'm interested in creating games and exploring features from different game engines such as Roblox Studio, Unreal Engine 5, and Unity. I expect to learn more about the fundamentals of how basic everyday electronics function.
