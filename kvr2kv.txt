@@ -1,0 +1,4 @@
+Anusha Devisetty
+Kvr2kv
+I have taken Intro to Embedded Systems and am currently taking Computer Architecture with Real-time Embedded. I am familiar with the microcontroller and booster pack used in the Intro to Embedded course. From taking CSO2 I have familiarity with C programming language.
+I am interested in the intersection between hardware and software, which I why I took this class to learn how this intersection applies to real-time systems. I am also interested in digital logic, system-level design, and FPGAs. From this class, I am expect to improve my designing and debugging skills with time-critical embedded hardware/software. 

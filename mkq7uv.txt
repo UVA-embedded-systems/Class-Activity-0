@@ -1,0 +1,5 @@
+Carson Jenkins mkq7uv
+
+I took Intro to Embedded last semester and Mechatronics last spring. In Intro to Embedded, I got more familiar programming in C and for my final project, made a Happy Birthday Singer using the BoosterPack MKII, which could interface with both buttons and lit up along with the song. In Mechatronics, I worked with a Parallax Propeller 2 chip, and coded a working Tetris game that interfaced with a Wii Classic Controller in Spin2. Then for my capstone project, I worked with an Arduino Mega and used it to control LEDs under a piano.
+
+I'm interested in robotics and spend a lot of time troubleshooting, so I hope to learn how to connect with various machines and develop new strategies for tackling electronic problems. 
