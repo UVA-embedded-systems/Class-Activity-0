@@ -1,0 +1,3 @@
+Deebakkarthi Chinnasame Rani, brg8ve
+I have taken undergraduate courses on Embedded Systems, Computer Architecture and Operating Systems. I took CS6354 Computer Architecture last semester. During my undergraduate program I mostly worked with ESP32 boards. I worked on a project called "HIMS" (https://www.deebakkarthi.com/20260101t221027-hims_moc/). It was low cost wearable device that monitored heartbeat, oxygen saturation etc. and integrated with AWS to provide visualization and alerts.
+I have always been interested in Low-level programming and it doesn't get lower-level that writing your own kernel. Like most people in CS, I have always wanted to build a game and the final project will allow me to do that.
