@@ -1,0 +1,8 @@
+Name: William Liu
+UVAID: uwu7nc
+
+My experience in embedded systems are form Intro to embedded course at UVA. I also also done PLC programming
+with function blocks at an internship. I also also taken computer archictecture, and CSO. 
+I have used Arduino and STM32 micrcontrollers.
+
+As for the programming languages, I have experience in Python, Java, and C. I also know a little bit of HTML.
