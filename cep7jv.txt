@@ -1,0 +1,8 @@
+Zachary Forino - cep7jv
+
+I have taken Intro to Embedded as well as CSO 1 and 2 and I am currently taking Computer Architecture. I don't have much prior experience other than my intro to embedded course. 
+I have a decent amount of programming experience from my other courses at UVA as well as some side projects.
+
+I enjoyed learning about basic embedded programming concepts in the intro course but I am interested in designing more complex systems that can do more. I used the boosterpack last semester 
+    in the intro course for the final project and had fun trying to use all of its functionality so I hope with a full semester to do even more with it. I don't think I fully understood how 
+    everything I learned in the intro course worked hardware wise so I hope to gain a better understanding of that.
