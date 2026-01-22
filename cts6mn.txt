@@ -1,0 +1,14 @@
+Name: Pratik Pandit
+Computing ID: cts6mn
+
+Relevant Courses taken:
+- Intro to Embedded Systems
+- Computer Architecture
+- Computer Systems and Organizations 1 & 2
+
+Experience:
+I have worked with the STM32 in my intro embedded class. I have worked with the MSPM0 for my Capstone Project which included improvising Prof. Valvano's robot. I also worked with embedded systems as a whole in my internship which included working with satellites.
+
+Expectation from the class:
+I would like to learn using RTOS environments as it is very relevant to industry. I also want to build a solid foundation to understand how DSP operates at a hardware level.
+
