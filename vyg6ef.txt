@@ -1,0 +1,11 @@
+Maiva Ndjiakou Kaptue, vyg6ef
+
+I am a Master’s student in Electrical and Computer Engineering at the University of Virginia. 
+My background includes coursework and projects in embedded systems, FPGA and ASIC programming, 
+computer architecture, and AI hardware. I have worked with PYNQ-Z1 boards, DMA-based FPGA acceleration, 
+CNN deployment, and embedded Python/C workflows. I have experience with Verilog/VHDL, Python, C/C++, 
+and hardware-software co-design.
+
+I am interested in embedded systems, AI hardware, and real-time intelligent systems. 
+Through this class, I hope to strengthen my understanding of embedded software-hardware integration, 
+system-level design, and practical development workflows used in real-world embedded systems.
