@@ -1,0 +1,4 @@
+Ryan DePaoli, aut6ws
+My background in embedded systems design/programming is limited only to what we did in the intro embedded course. In addition to intro embedded, I've also taken CSO1/2 and am currently in the ECE computer architecture course. I've only ever used C for embedded programming.
+I'm really interested in using embedded systems in a more real-time fashion, exploring the constraints of different equipment/programming. Also, usage of the DAC/ADC since we didn't cover too much of that in the intro course. I think what I want most out of this course is to clearly see/implement some of the topics we covered in CSO2 on the board. You obviously know your laptop/PC is doing them, but they're hidden behind a bunch of abstraction layers. I think I'll strengthen my understanding by seeing this on the system we set up.
+
