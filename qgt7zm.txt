@@ -1,0 +1,8 @@
+Eric Weng (qgt7zm)
+
+Education: I am a current MCS student who also graduated from UVA in 2025 with a BSCS.
+
+Background: My background is in software development and machine learning, but I have also taken courses in computer architecture, operating systems, and signal processing. My preferred languages are Java, Python, Kotlin, HTML/CSS/JS, SQL, PHP, C, and Bash. I have worked with web frameworks such as Django and game engines such as Unity. As a side project, I am also learning OpenGL and creating my own game engine.
+
+Interests: I am interested in computer graphics, cybersecurity, and game development. I think this course will give me more experience in the intersection between hardware and software and teach me about low-level optimization and security.
+

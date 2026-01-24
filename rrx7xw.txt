@@ -1,0 +1,6 @@
+David Merino, rrx7xw
+
+Hello, I am David and I am a computer engineering major, so I have been exposed to a lot of embedded programming. Relevant courses I have taken are Intro to Embedded, Computer Systems & Organization (I & II), and Computer Architecture & Design. I am also a member of the embedded team for Solar Car at UVA and did a fair amount of programming in capstone. The microcontrollers I have used before are STM32's, Arduinos, Raspberry Pies, TI MCU's, and various FPGA boards. The programming languages I am most comfortable in are C, C++, Python, and Java.
+
+
+I am most interested in low-level software and firmware. Outside of school, my interests include playing sports, rock climbing, and playing guitar. From this course, I hope to learn common practices and skills that are used in embedded programming that I can use in my future career and projects. Also, I hope I can gain a deeper understanding of microcontrollers and how they work. 

@@ -1,0 +1,26 @@
+Quintin Levy | qnx5qc
+
+Experience with Embedded
+Intro to Embedded Systems
+
+Computer Science:
+Data Structures 1
+Computer Systems & Organization 1 & 2
+Software Development Essentials
+Cybersecurity
+
+Projects:
+None outside of coursework
+
+I have experience with both the TI MSPM0+ and STM32 Microcontrollers
+Only experience using x86 assembly and C with embedded work
+
+
+My goal for this class is to further develop my understanding and skill 
+set in working with embedded real-time systems. I see this as a valuable 
+skill, especially as I prepare for my capstone project in Fall 2026. 
+I am also interested in exploring embedded systems as a potential career 
+path, and this course will help strengthen the fundamentals expected when 
+working with these systems. Additionally, I want to improve my ability to 
+read and interpret datasheets and other technical documentation, which I 
+see as an important practical skill.
