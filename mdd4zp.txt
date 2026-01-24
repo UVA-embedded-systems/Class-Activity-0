@@ -1,3 +1,10 @@
 Nina Pournaras
 mdd4zp
 
+I used the STM32 microcontroller in intro to embedded and I worked
+with the ESP32 microcontroller using C++ for my capstone project last semester.
+I have also taken CSO1/CSO2. My interests are competitve shooting and playing video games. Im hoping to
+learn more about RTOS and hopefully become prepared for a job in embedded design.
+
+
+
