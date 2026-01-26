@@ -1,0 +1,8 @@
+Noreen Hossain, Hew3bc 
+
+Relevant Courses: Intro to Embedded Systems, Computer Architecture, Computer System Organization 1
+Relevant Projects: Embedded music player final project
+Microcontrollers: BoosterPack MKII, MSPM0G3507 LaunchPad
+Programming Languages: Python, Java, C
+
+This course builds on the material taught in the intro class while introducing new applications for real-time systems. I’m interested in learning about RTOS because of its relevance to modern embedded applications and how it enables systems act predictably to meet strict time constraints. In this class I am excited about learning and building projects that can respond and behave in the real world. 
