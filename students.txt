@@ -1,4 +1,5 @@
 YOUR NAME, YOUR UVA ID, LINK TO YOUR NEW REPOSITORY
+Patrick Nowak, kmg5ss, https://github.com/Psujj/Class-Activity-0
 Ryan DePaoli, aut6ws, https://github.com/RyanJD3/Class-Activity-0 
 Shahryar Kiani, qkn4qs, https://github.com/shahryarkiani/ece6501-Class-Activity-0
 Anusha Devisetty, kvr2kv, https://github.com/AnuDevi08/Class-Activity-0.git
