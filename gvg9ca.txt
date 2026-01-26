@@ -1,0 +1,29 @@
+NAME: Isaias Guillen
+
+UVA ID: gvg9ca
+
+COURSES: 
+   - Introduction to Embedded Computer Systems
+   - Computer Systems and Organization I
+   - Computer Systems and Organization II
+
+PROJECTS:
+   - Programmed the BoosterPack to play musical tones and display corresponding notes on an LCD
+   - Wrote and compiled an ARM assembly program to output “Hello World”
+
+HARDWARE:
+   - LP-MSPM0G3507 LaunchPad
+   - BoosterPack MKII
+   - Arduino Uno
+
+PROGRAMMING:
+   - C
+   - Assembly (ARM)
+   - Java
+   - Python
+
+EXPECTATION:
+   I hope to learn more about embedded systems because I wish to pursue a career in embedded systems.
+   I wish to learn and grow more my knowledge of computer hardware. I'm also really interested to
+   program the BoosterPack to play games because from Intro to Embedded I knew there had to be a way
+   but didn't have the time to do so.
