@@ -1,0 +1,17 @@
+Chance Woosley snf8ez
+
+courses: intro to embedded, CS computer architecture, ECE computer architecture
+projects: responsive LED Grid, ML gesture recognition 
+platforms: STM32, OpenMV H7 + Edge Impulse
+languages: Python, Java, C
+
+I am interested in this class because I expect it to
+strip away many of the layers of abstraction commonly
+found in projects. By focusing on a single, simple, 
+computer, this course will encourage a full understanding 
+of the computer including management of the memory, 
+I/O, and OS. Last semester, I took CS computer
+architecture which focused on low-level CPU operation down
+to the cycle count. I hope to gain more experience with
+programming in this way: writing code that is optimized
+for specific hardware. 

@@ -1,0 +1,10 @@
+Anjini Verdia, qpe7nn
+
+Prior Background: My background in embedded systems mostly comes from the embedded class I took last 
+semester; I'm also part of the UVA Solar Car embedded subteam and have gained experience coding in C++
+and working with various boards such as the STM32 Nucleo and Rasberry Pi. My primary coding languages 
+in embedded systems have been C, C++, and occasionally python for scripting purposes.
+
+Interests: I really enjoyed taking embedded last semester, and want to learn more about the design
+process and specifics of creating an embedded system. I'm also thinking about doing this as a career,
+so I'd definitely love some more hands on experience as well.
