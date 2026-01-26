@@ -1,0 +1,13 @@
+Mohammad Mballo, avq7yu
+
+My background in embedded systems includes intro to embedded systems, Computer architecture, CSO1, and Iam currently taking CSO2.
+I also have a fair amount of programming experience, in python, java, C, from my undergraduate career thus far. 
+As part of the final project for my intro to embedded course, I interfaced an EEPROM board with an STM32 microcontroller by writing SPI and I2C functions. 
+This was done to sample and store an inputted analog signal. As far as microcontrollers, I'm familliar with bot the STM32 and the TI ARM cortex-M0+ microcontroller.
+
+I'm taking this course because of my interest in more complex embedded systems that require RTOS. 
+I hope to gain more experience with design patters specific to embedded software development.
+I also have a broad interest in networks and IoT, so I'm hoping to see how I could further bridge these topics. 
+
+Mohammad Mballo, avq7yu, https://github.com/AVQ7/Class-Activity-0.git.
+
