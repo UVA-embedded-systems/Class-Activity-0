@@ -1,0 +1,4 @@
+Patrick Nowak, kmg5ss
+
+My embedded systems background is mostly accademic, havign taking emmbedded systems with the stm32, digital logic design, cso 1-2, fpga and now I am also takign comp arch. For classes like comp arch, dld and fpga, I used VHDL and the rest were in c. Over winter break I was planning on working with an esp32 but got distracted with other projects and didn't get around to it.
+I am intnerested in furthering my abilities in embedded systems and gettign a better understanding on how to appraoch problems. The first few days I found it intersting abotu the different restrictions that can be placed on the engineers which I have not really given much though to, and I am intersted to see the different kinds of trade offs happen while designing these kinds of systems. Overall, I am most interested in imporving my approach at working with mebedded systems and learn to use new microcontrollers!
