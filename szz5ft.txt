@@ -1,0 +1,3 @@
+Haizhou Yu
+szz5ft
+I have taken Intro to Embedded, Comp Arch (both ECE and CS), Other than the usual projects in that class, I did my capstone project on a MIDI controller that was developed on Raspberry PI PICO using micropython.
