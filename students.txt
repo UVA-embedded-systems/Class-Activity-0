@@ -1,4 +1,5 @@
 YOUR NAME, YOUR UVA ID, LINK TO YOUR NEW REPOSITORY
+Evan Sage, jzj8ug, https://github.com/evan-sage-class/Class-Activity-0
 Nina Pournaras, mdd4zp, https://github.com/ninap147/Class-Activity-0
 Patrick Nowak, kmg5ss, https://github.com/Psujj/Class-Activity-0
 Ryan DePaoli, aut6ws, https://github.com/RyanJD3/Class-Activity-0 
@@ -28,3 +29,4 @@ Chance Woosley, snf8ez, https://github.com/chancew7/Class-Activity-0.git
 Anjini Verdia, qpe7nn, https://github.com/AnjiniVerdia/Class-Activity-0
 AJ Amos, ewy4hu, https://github.com/pizzeman/RTOS-Class-Activity-0.git
 Franz Villarroel, fka5gg, https://github.com/fka5gg/Class-Activity-0
+Haizhou Yu, szz5ft, https://github.com/Tristar10/Class-Activity-0.git
