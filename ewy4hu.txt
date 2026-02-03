@@ -1,0 +1,2 @@
+AJ Amos | ewy4hu
+I have taken Introduction to Embedded Systems and I am on the embedded subteam with Solar Car at UVA. I spend a lot of my time with the STM32 Nucleo Microcontroller and Raspberry Pi, coding in C++ and Python. I have experience with C as well from multiple classes.
