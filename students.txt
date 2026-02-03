@@ -28,4 +28,5 @@ Isaias Guillen, gvg9ca, https://github.com/IsaiasGui/Class-Activity-0
 Chance Woosley, snf8ez, https://github.com/chancew7/Class-Activity-0.git
 Anjini Verdia, qpe7nn, https://github.com/AnjiniVerdia/Class-Activity-0
 AJ Amos, ewy4hu, https://github.com/pizzeman/RTOS-Class-Activity-0.git
+Franz Villarroel, fka5gg, https://github.com/fka5gg/Class-Activity-0
 Haizhou Yu, szz5ft, https://github.com/Tristar10/Class-Activity-0.git
